@@ -1,2 +1,2 @@
 # labyrinth
- labyrinth (game made by PyGame)
+ game made by PyGame
